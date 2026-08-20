@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently learning and working on mechatronics, robotics, automation, and AI/ML projects!<br>
-🤔 I’m looking for help with agentic AI and systems engineering.
+🔭 I build machines that share a room with people, then spend most of my time trying to break them!<br>
+⭐ I’m looking for help with systems engineering.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mo-kamel7/)
