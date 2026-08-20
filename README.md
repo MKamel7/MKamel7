@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning and working on robotics, automation, and AI/ML projects!<br>
+🔭 I’m currently learning and working on mechatronics, robotics, automation, and AI/ML projects!<br>
 🤔 I’m looking for help with agentic AI and systems engineering.
 
 ## 🌐 Socials:
