@@ -1,23 +1,40 @@
-# 💫 About Me:
-🔭 I build machines that share a room with people, then spend most of my time trying to break them!<br>
-⭐ I’m looking for help with systems engineering.
+# Mo Kamel
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mo-kamel7/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mkamel860@gmail.com)
+Mechatronics engineer and M.Eng. student in Mechatronic & Cyber-Physical
+Systems at TH Deggendorf.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white)
+I work at the hardware-software boundary: autonomous robots, industrial
+automation, computer vision, functional safety, and engineering validation.
+I am driven by the process of turning difficult failures into better designs,
+and I deliberately keep expanding my technical depth through ambitious builds,
+measured experiments, and feedback from experienced engineers.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> Based in Regensburg and seeking a Werkstudent or Praktikum position in
+> robotics, automation, embedded systems, computer vision, or test and
+> validation across Bavaria.
+
+## Selected engineering work
+
+| Project | Engineering evidence |
+| --- | --- |
+| [Intralogistics AMR](https://github.com/MKamel7/intralogistics-amr) | ROS 2 Jazzy, Nav2, and Gazebo Harmonic; 12/12 measured cycles and 66 documented findings |
+| [Virtual Production Cell](https://github.com/MKamel7/virtual-production-cell) | IEC 61131-3, CODESYS, PackML, Modbus TCP, and secured OPC UA; 221 tests |
+| [Fault-Injection Harness](https://github.com/MKamel7/fault-injection-harness) | 27 hazard-derived faults, FTTI budgets, and bidirectional requirement-to-test traceability |
+| [Driver Monitoring System](https://github.com/MKamel7/driver-monitoring-system) | A+ industry-partnered bachelor thesis; embedded computer vision on Jetson Nano and Raspberry Pi |
+
+## Core technologies
+
+ROS 2 · Python · C++ · Gazebo · Nav2 · MoveIt 2 · OpenCV · YOLOv8 ·
+MATLAB/Simulink · CODESYS · OPC UA · Docker · GitHub Actions
+
+## Background
+
+- M.Eng. Mechatronic & Cyber-Physical Systems - TH Deggendorf
+- B.Sc. Mechanical Engineering - Mechatronics - AASTMT
+- English (C1) · German (B1, improving) · French (B1) · Arabic (native)
+
+## Links
+
+[Portfolio](https://mkamel7.github.io/) ·
+[LinkedIn](https://www.linkedin.com/in/mo-kamel7/) ·
+[Email](mailto:mkamel860@gmail.com)
