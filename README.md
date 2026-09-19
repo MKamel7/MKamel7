@@ -13,15 +13,6 @@ measured experiments, and feedback from experienced engineers.
 > robotics, automation, embedded systems, computer vision, or test and
 > validation across Bavaria.
 
-## Selected engineering work
-
-| Project | Engineering evidence |
-| --- | --- |
-| [Intralogistics AMR](https://github.com/MKamel7/intralogistics-amr) | ROS 2 Jazzy, Nav2, and Gazebo Harmonic; 12/12 measured cycles and 66 documented findings |
-| [Virtual Production Cell](https://github.com/MKamel7/virtual-production-cell) | IEC 61131-3, CODESYS, PackML, Modbus TCP, and secured OPC UA; 221 tests |
-| [Fault-Injection Harness](https://github.com/MKamel7/fault-injection-harness) | 27 hazard-derived faults, FTTI budgets, and bidirectional requirement-to-test traceability |
-| [Driver Monitoring System](https://github.com/MKamel7/driver-monitoring-system) | A+ industry-partnered bachelor thesis; embedded computer vision on Jetson Nano and Raspberry Pi |
-
 ## Core technologies
 
 ROS 2 · Python · C++ · Gazebo · Nav2 · MoveIt 2 · OpenCV · YOLOv8 ·
