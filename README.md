@@ -3,9 +3,8 @@
 Mechatronics engineer and M.Eng. student in Mechatronic & Cyber-Physical
 Systems at TH Deggendorf.
 
-🔧 I work at the hardware-software boundary: autonomous robots, industrial
-automation, computer vision, functional safety, and engineering validation.
-🧭 I am driven by the process of turning difficult failures into better designs,
+I work at the hardware-software boundary: autonomous robots, industrial
+automation, computer vision, functional safety, and engineering validation. I am driven by the process of turning difficult failures into better designs,
 and I deliberately keep expanding my technical depth through ambitious builds,
 measured experiments, and feedback from experienced engineers.
 
